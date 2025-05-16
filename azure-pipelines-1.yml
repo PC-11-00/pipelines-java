@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: 'PushpendraKumar-PFG716HLWV'
+  name: 'Default'
 
 steps:
 - task: Maven@3
